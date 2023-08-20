@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there)](https://git.io/typing-svg)
+<h1 align="center">My name`s Nikita</h1>
 <h3 align="center">I`m QA automation engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dronovna&label=Profile%20views&color=0e75b6&style=flat" alt="dronovna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dronovna" alt="dronovna" /></a> </p>
+
+- 🌱 I studied **QA GURU**
+
+- 💬 Ask me about **selene, pytest**
+
+- 📫 How to reach me **nikita.dronov.a@gmail.com, https://t.me/DronovNA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dronovna&show_icons=true&locale=en" alt="dronovna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dronovna&" alt="dronovna" /></p>
-
-
