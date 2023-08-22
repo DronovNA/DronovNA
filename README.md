@@ -21,9 +21,9 @@ width="5%" title="Pytest" src="images/pytest.png" alt="Pytest" style="max-width:
 
 <h2 align="left">🧑‍💻Git stats</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dronovna&show_icons=true&locale=en&layout=compact" alt="dronovna" width="41%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dronovna&show_icons=true&locale=en&layout=compact" alt="dronovna" width="40%" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dronovna&show_icons=true&theme=radical" alt="dronovna" width="55%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dronovna&show_icons=true&theme=radical" alt="dronovna" width="53%" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dronovna&theme=solarized_dark)
 
