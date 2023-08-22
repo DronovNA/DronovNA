@@ -25,7 +25,7 @@ width="5%" title="Pytest" src="images/pytest.png" alt="Pytest" style="max-width:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dronovna&show_icons=true&theme=radical" alt="dronovna" width="55%" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dronovna&theme=solarized_dark)
 
 <h2 align="left">👨‍🎓Education</h2>
 <table width="100%" border="0">
