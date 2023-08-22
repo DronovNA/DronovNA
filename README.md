@@ -4,19 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dronovna&label=Profile%20views&color=0e75b6&style=flat" alt="dronovna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dronovna" alt="dronovna" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dronovna" alt="dronovna" width="60%" style="max-width: 100%;"/></a> </p>
 
 - 🌱 I studied **QA GURU**
 
 - 💬 Ask me about **selene, pytest**
 
 - 📫 How to reach me **nikita.dronov.a@gmail.com, https://t.me/DronovNA**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">💼Technologies</h3>
+<h3 align="center">👽Technologies</h3>
 <p align="center"> <a target="_blank" rel="noreferrer" href="images/pngegg.png"> <img width="5%" title="Python" src="images/pngegg.png" alt="Python" style="max-width: 100%;"/> </a> <a href="images/pycharm.png" target="_blank" rel="noreferrer"> <img width="5%" title="Pycharm" src="images/pycharm.png" alt="Pycharm" style="max-width: 100%;"/> </a> <a href="images/pytest.png" target="_blank" rel="noreferrer"> <img 
 width="5%" title="Pytest" src="images/pytest.png" alt="Pytest" style="max-width: 100%;"/> </a> <a href="images/requests.png" target="_blank" rel="noreferrer"> <img width="5%" title="Reauests" src="images/requests.png" alt="Requests" style="max-width: 100%;"/> </a> <a href="images/selenium.png" target="_blank" rel="noreferrer"> <img width="5%" title="Selenium" src="images/selenium.png" alt="Selenium" style="max-width: 100%;"/> </a> <a href="images/selene.png" target="_blank" rel="noreferrer"> <img width="5%" title="Selene" src="images/selene.png" alt="Selene" style="max-width: 100%;"/> </a> <a href="images/git.svg" target="_blank" rel="noreferrer"> <img width="5%" title="Git" src="images/git.svg" alt="Git" style="max-width: 100%;"/> </a> <a href="images/github.svg" target="_blank" rel="noreferrer"> <img width="5%" title="GitHub" src="images/github.svg" alt="GitHub" style="max-width: 100%;"/> </a> <a href="images/selenoid.png" target="_blank" rel="noreferrer"> <img width="5%" title="Selenoid" src="images/selenoid.png" alt="Selenoid" style="max-width: 100%;"/> </a> <a href="images/allure_report.png" target="_blank" rel="noreferrer"> <img width="5%" title="Allure-report" src="images/allure_report.png" alt="allure_report" style="max-width: 100%;"/> </a> </p>
 
