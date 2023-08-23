@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there)](https://git.io/typing-svg)
-<h1 align="center">My name`s Nikita</h1>
+<h1 align="center">ᴍʏ ɴᴀᴍᴇ`ꜱ ɴɪᴋɪᴛᴀ</h1>
 <h3 align="center">I`m QA automation engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dronovna&label=Profile%20views&color=0e75b6&style=flat" alt="dronovna" /> </p>
