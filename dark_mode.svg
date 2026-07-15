@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="50">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="70">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="90">    **********#*+-::::::::::::=##*******    </tspan>
+<tspan x="15" y="110">    **********#-::::::......::::=*******    </tspan>
+<tspan x="15" y="130">    **********-....:::.........::-******    </tspan>
+<tspan x="15" y="150">    *********-.....:::...........:=*****    </tspan>
+<tspan x="15" y="170">    ********=......:..............:+****    </tspan>
+<tspan x="15" y="190">    *******+:..........::..........:+***    </tspan>
+<tspan x="15" y="210">    ******+:........:::::...........:=+=    </tspan>
+<tspan x="15" y="230">    *****+:...........................=+    </tspan>
+<tspan x="15" y="250">    ****+.......... . ................:=    </tspan>
+<tspan x="15" y="270">    **#=...    .................   ....:    </tspan>
+<tspan x="15" y="290">    **-..      .................      ..    </tspan>
+<tspan x="15" y="310">    *:       .........  ..   ...       .    </tspan>
+<tspan x="15" y="330">    :.      .....::.....:.......       .    </tspan>
+<tspan x="15" y="350">    ..      ...........::.......   .....    </tspan>
+<tspan x="15" y="370">    .....................   . ..........    </tspan>
+<tspan x="15" y="390">    ..  ...::::::.......................    </tspan>
+<tspan x="15" y="410">    ...::---:::::....:.:::::::::::..:...    </tspan>
+<tspan x="15" y="430">    ..::::::::.................::::.....    </tspan>
+<tspan x="15" y="450">    ............................:.......    </tspan>
+<tspan x="15" y="470">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="490">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+<tspan x="15" y="510">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    </tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">nikita@dronov -——————————————————————————————————————————-—</tspan>
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............................... </tspan><tspan class="value">Linux, macOS, Windows</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................................... </tspan><tspan class="value">2 years in IT</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">Independent</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">:</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">QA Automation Engineer</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">PyCharm, VSCode</tspan></tspan>
+<tspan x="390" y="150"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc">:</tspan><tspan class="cc"> . </tspan><tspan class="value">Python, TypeScript, Swift, JavaScript, Java</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Computer</tspan><tspan class="cc">:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc">:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">Russian, English</tspan></tspan>
+<tspan x="390" y="230"><tspan class="cc">. </tspan></tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="cc">:</tspan><tspan class="cc"> .... </tspan><tspan class="value">Test Automation, Language Learning</tspan></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">—</tspan></tspan>
+<tspan x="390" y="310">- Contact —————————————————————————————————————————————————-—</tspan>
+<tspan x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">Email.Personal</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">nikita.dronov.a@gmail.com</tspan></tspan>
+<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">Telegram</tspan><tspan class="cc">:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">DronovNA</tspan></tspan>
+<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">DronovNA</tspan></tspan>
+<tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............................................. </tspan><tspan class="value">—</tspan></tspan>
+<tspan x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">Discord</tspan><tspan class="cc">:</tspan><tspan class="cc"> .............................................. </tspan><tspan class="value">—</tspan></tspan>
+<tspan x="390" y="450">- GitHub Stats ————————————————————————————————————————————-—</tspan>
+<tspan x="390" y="470"><tspan class="cc">. Repos: </tspan><tspan class="value">8</tspan><tspan class="cc"> {</tspan><tspan class="key">Contributed</tspan><tspan class="cc">: </tspan><tspan class="value">8</tspan><tspan class="cc">} | Stars: </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. Commits: </tspan><tspan class="value">86</tspan><tspan class="cc"> | Followers: </tspan><tspan class="value">3</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. Lines of Code on GitHub: </tspan><tspan class="value">5,912</tspan><tspan class="cc"> ( </tspan><tspan class="addColor">6,660</tspan><tspan class="addColor">++</tspan><tspan class="cc">, </tspan><tspan class="delColor">748</tspan><tspan class="delColor">--</tspan><tspan class="cc"> )</tspan></tspan>
+</text>
+</svg>
